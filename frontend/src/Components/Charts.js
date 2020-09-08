@@ -72,12 +72,12 @@ function Chart() {
             <div style={{width: '100%', display: 'flex', paddingTop: 50}}>
                 <span style={{width: '100%'}}>
                     <Bar
-                      data={'REPLACE ME'}
+                      data={age}
                     />
                 </span>
                 <span style={{width: '100%'}}>
                     <Bar
-                      data={'REPLACE ME'}
+                      data={smile}
                     />
                 </span>
             </div>
